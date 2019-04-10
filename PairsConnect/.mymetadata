@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="PairsConnect"
+  id="myeclipse.1554800982438"
+  context-root="/PairsConnect"
+  j2ee-spec="6.0"
+  archive="PairsConnect.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
